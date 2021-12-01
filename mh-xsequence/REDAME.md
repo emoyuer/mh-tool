@@ -1,4 +1,4 @@
-/**
+`/**
 * 序列号生成配置
 * @author: yujiaxin
 * @createTime: 2020/8/25
@@ -37,4 +37,6 @@
         return DbSeqBuilder.create().dataSource(dataSource).step(step).stepStart(stepStart).bizName(bizName).setType(type).build();
     }
 
-}
+}`
+
+
