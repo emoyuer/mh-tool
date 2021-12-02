@@ -1,7 +1,7 @@
-package com.mh.xsequence.sequence;
+package com.mh.sequence.sequence;
 
-import com.mh.xsequence.exception.SeqException;
-import com.mh.xsequence.range.SeqRangeMgr;
+import com.mh.sequence.exception.SeqException;
+import com.mh.sequence.range.SeqRangeMgr;
 
 /**
  * 序列号区间生成器接口

@@ -1,4 +1,4 @@
-package com.mh.xsequence.utils;
+package com.mh.sequence.utils;
 
 import java.net.InetAddress;
 

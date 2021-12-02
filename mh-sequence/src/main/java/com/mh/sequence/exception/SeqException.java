@@ -1,4 +1,4 @@
-package com.mh.xsequence.exception;
+package com.mh.sequence.exception;
 
 /**
  * 序列号生成异常

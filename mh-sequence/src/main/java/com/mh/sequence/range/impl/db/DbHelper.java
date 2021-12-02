@@ -1,6 +1,6 @@
-package com.mh.xsequence.range.impl.db;
+package com.mh.sequence.range.impl.db;
 
-import com.mh.xsequence.exception.SeqException;
+import com.mh.sequence.exception.SeqException;
 
 import javax.sql.DataSource;
 import java.sql.*;

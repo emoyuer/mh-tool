@@ -1,6 +1,6 @@
-package com.mh.xsequence.sequence;
+package com.mh.sequence.sequence;
 
-import com.mh.xsequence.exception.SeqException;
+import com.mh.sequence.exception.SeqException;
 
 /**
  * 序列号生成器接口

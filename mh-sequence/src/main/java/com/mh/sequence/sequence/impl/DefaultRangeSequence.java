@@ -1,9 +1,9 @@
-package com.mh.xsequence.sequence.impl;
+package com.mh.sequence.sequence.impl;
 
-import com.mh.xsequence.exception.SeqException;
-import com.mh.xsequence.range.SeqRange;
-import com.mh.xsequence.range.SeqRangeMgr;
-import com.mh.xsequence.sequence.RangeSequence;
+import com.mh.sequence.exception.SeqException;
+import com.mh.sequence.range.SeqRange;
+import com.mh.sequence.range.SeqRangeMgr;
+import com.mh.sequence.sequence.RangeSequence;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

@@ -1,9 +1,9 @@
-package com.mh.xsequence.range.impl.db;
+package com.mh.sequence.range.impl.db;
 
 
-import com.mh.xsequence.exception.SeqException;
-import com.mh.xsequence.range.SeqRange;
-import com.mh.xsequence.range.SeqRangeMgr;
+import com.mh.sequence.exception.SeqException;
+import com.mh.sequence.range.SeqRange;
+import com.mh.sequence.range.SeqRangeMgr;
 
 import javax.sql.DataSource;
 

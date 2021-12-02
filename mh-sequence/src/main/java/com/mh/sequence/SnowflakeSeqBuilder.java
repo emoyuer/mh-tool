@@ -1,7 +1,7 @@
-package com.mh.xsequence;
+package com.mh.sequence;
 
-import com.mh.xsequence.sequence.Sequence;
-import com.mh.xsequence.sequence.impl.SnowflakeSequence;
+import com.mh.sequence.sequence.Sequence;
+import com.mh.sequence.sequence.impl.SnowflakeSequence;
 
 /**
  * 基于雪花算法，序列号生成器构建者

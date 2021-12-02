@@ -1,6 +1,6 @@
-package com.mh.xsequence.range;
+package com.mh.sequence.range;
 
-import com.mh.xsequence.exception.SeqException;
+import com.mh.sequence.exception.SeqException;
 
 /**
  * 区间管理器

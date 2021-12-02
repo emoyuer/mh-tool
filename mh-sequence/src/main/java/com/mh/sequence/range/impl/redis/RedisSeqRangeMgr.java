@@ -1,7 +1,7 @@
-package com.mh.xsequence.range.impl.redis;
-import com.mh.xsequence.exception.SeqException;
-import com.mh.xsequence.range.SeqRange;
-import com.mh.xsequence.range.SeqRangeMgr;
+package com.mh.sequence.range.impl.redis;
+import com.mh.sequence.exception.SeqException;
+import com.mh.sequence.range.SeqRange;
+import com.mh.sequence.range.SeqRangeMgr;
 import redis.clients.jedis.Jedis;
 
 /**

@@ -1,8 +1,8 @@
-package com.mh.xsequence;
+package com.mh.sequence;
 
-import com.mh.xsequence.range.impl.db.DbSeqRangeMgr;
-import com.mh.xsequence.sequence.Sequence;
-import com.mh.xsequence.sequence.impl.DefaultRangeSequence;
+import com.mh.sequence.range.impl.db.DbSeqRangeMgr;
+import com.mh.sequence.sequence.Sequence;
+import com.mh.sequence.sequence.impl.DefaultRangeSequence;
 
 import javax.sql.DataSource;
 

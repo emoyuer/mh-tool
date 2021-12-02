@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mh.tool</groupId>
-    <artifactId>mh-xsequence</artifactId>
+    <artifactId>mh-sequence</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mh-xsequence</name>
+    <name>mh-sequence</name>
     <description>简单的分布式序列号生成组件</description>
 
     <properties>

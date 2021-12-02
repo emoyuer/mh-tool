@@ -1,4 +1,4 @@
-package com.mh.xsequence.range;
+package com.mh.sequence.range;
 
 import java.util.concurrent.atomic.AtomicLong;
 

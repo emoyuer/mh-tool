@@ -1,6 +1,6 @@
-package com.mh.xsequence;
+package com.mh.sequence;
 
-import com.mh.xsequence.sequence.Sequence;
+import com.mh.sequence.sequence.Sequence;
 
 /**
  * 序列号生成器构建者
