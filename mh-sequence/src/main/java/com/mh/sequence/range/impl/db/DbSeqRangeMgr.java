@@ -18,7 +18,7 @@ public class DbSeqRangeMgr implements SeqRangeMgr {
     /**
      * 表名前缀，为防止数据库表名冲突，默认带上这个前缀
      */
-    private final static String TABLENAME_PREFIX = "x_sequence_";
+    private final static String TABLENAME_PREFIX = "mh_sequence_";
 
     /**
      * 区间步长
