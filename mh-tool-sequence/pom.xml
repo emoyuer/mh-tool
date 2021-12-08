@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.mh.tool</groupId>
-    <artifactId>mh-sequence</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>mh-sequence</name>
+    <groupId>io.github.emoyuer</groupId>
+    <artifactId>mh-tool-sequence</artifactId>
+    <version>1.0.0</version>
+    <name>mh-tool-sequence</name>
     <description>简单的分布式序列号生成组件</description>
 
     <properties>
